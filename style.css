@@ -1,0 +1,34 @@
+header {
+    width: 1440px;
+    height: 720px;
+    
+    background-color: #F3D7B7;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+}
+
+.Big-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 400px;
+}
+.img {
+     padding-bottom: 300px;
+     margin-top: 40px;
+}
+.footer{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;  
+    height: 100px;
+    background-color: orange;
+}
+.ol{
+    list-style:none;
+    display: flex;
+    gap: 100px;
+}
